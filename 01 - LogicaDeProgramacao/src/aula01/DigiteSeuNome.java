@@ -1,8 +1,8 @@
-package com.company;
+package aula01;
 
 import java.util.Scanner;
 
-public class Main {
+public class DigiteSeuNome {
 
     public static void main(String[] args) {
         System.out.println("Hello Wolrd");
